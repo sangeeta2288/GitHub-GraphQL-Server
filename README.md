@@ -1,4 +1,5 @@
 # GitHub-GraphQL-Server
+We’ll be creating a GraphQL server using express. We will also be writing all the code in ES6/2015.
 
 Run the command to install
 
